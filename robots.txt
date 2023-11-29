@@ -1,8 +1,10 @@
 User-Agent: *               # any robot
-Disallow:   /private        # disallow this directory
+Disallow:   /script.js        # disallow this directory
 User-Agent: FacebookBot     # rules targeted at FacebookBot
-Disallow:   /private        # disallow this directory
+Disallow:   /script.js        # disallow this directory
 User-Agent: facebookexternalhit/1.1     # rules targeted at facebookexternalhit/1.1
-Disallow:   /private 
+Disallow:   /script.js        # disallow this directory
 User-Agent: facebookcatalog/1.0     # rules targeted at facebookcatalog/1.0
-Disallow:   /private 
+Disallow:   /script.js        # disallow this directory
+User-Agent:  FacebookBot                              
+Crawl-delay: 60              # 1 page per 60 seconds
