@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Acontecimiento Impactante en Europa</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+            color: #333;
+        }
+        h1, h2 {
+            color: #007BFF;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Acontecimiento Impactante en Europa</h1>
+    </header>
+
+    <section>
+        <h2>¡Desvelamos el Misterio!</h2>
+        <p>Europa está en vilo debido a un acontecimiento extraordinario que ha dejado a todos boquiabiertos. Nosotros, en primera línea, te traemos los detalles exclusivos de este evento que ha capturado la atención de todo el continente.</p>
+    </section>
+
+    <section>
+        <h2>Detalles Impactantes</h2>
+        <p>En la madrugada del 11/25/2023, un fenómeno sin precedentes tuvo lugar en Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit, vero veniam iste facere iure doloremque reprehenderit. Consequuntur velit voluptatibus beatae! Nostrum pariatur magnam nisi sit odit optio voluptatibus, fugiat reiciendis?. Testigos describen luces misteriosas, sonidos inusuales y una atmósfera que dejó a todos asombrados.</p>
+        <img src="imagen1.jpg" alt="Imagen del Acontecimiento" />
+        <p>Este suceso extraordinario ha desconcertado a expertos y ha generado especulaciones sobre su origen y significado. ¿Estamos ante un fenómeno natural sin explicación o podría haber una causa más allá de nuestro entendimiento?</p>
+    </section>
+
+    <section>
+        <h2>Impacto en la Sociedad</h2>
+        <p>El evento ha dejado una marca indeleble en la sociedad, desatando conversaciones en todos los niveles. Comunidades enteras se han reunido para discutir y reflexionar sobre el significado de este suceso único en la historia europea.</p>
+        <img src="imagen2.jpg" alt="Impacto en la Sociedad" />
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Acontecimiento Impactante en Europa</p>
+    </footer>
+
+</body>
+</html>
